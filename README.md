@@ -1,5 +1,10 @@
 # Cowwboy
 
+![Cowwboy](https://raw.githubusercontent.com/perzanko/cowwboy-client/master/assets/logo-small.png)
+
+
+## Install guide
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
