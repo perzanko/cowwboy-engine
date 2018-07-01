@@ -1,0 +1,24 @@
+<div class="jumbotron">
+  <h2>Playrooms</h2>
+</div>
+
+<div id="playrooms">
+  <div class="panel panel-default">
+    <div class="panel-body">
+      Playrooms
+    </div>
+    <div class="panel-footer"><div id="playrooms_playrooms"></div></div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-body">
+      Commands
+    </div>
+    <div class="panel-footer"><div id="playrooms_buttons"></div></div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-body">
+      On Listeners
+    </div>
+    <div class="panel-footer"><div id="playrooms_listeners"></div></div>
+  </div>
+</div>

@@ -2,7 +2,7 @@ defmodule CowwboyWeb.UserSocket do
   use Phoenix.Socket
 
   ## Channels
-  # channel "room:*", CowwboyWeb.RoomChannel
+  channel "playrooms", CowwboyWeb.PlayroomsChannel
 
   ## Transports
   transport :websocket, Phoenix.Transports.WebSocket
